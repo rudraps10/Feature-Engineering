@@ -65,7 +65,7 @@ It improves model performance and ensures fair feature contribution.
 
 ## 🙋‍♂️ Author
 
-**The Phenomenals**  
+***Rudra Pratap Singh*  
 *Aspiring Data Scientist | Learning with hands-on projects*  
 📧 [LinkedIn Profile](https://www.linkedin.com/) *(Add your link here)*
 
